@@ -1,0 +1,113 @@
+
+
+
+
+table
+    {
+        border-collapse: collapse;
+    border-color: whitesmoke;
+   border: 4px;
+    text-align:center 
+
+    
+    }
+
+tr,td,th
+    { 
+    border: 1px solid;
+    padding: 10px;
+
+    }
+
+tr
+{
+    background-color: pink;
+
+}
+
+tr:nth-child(even)
+{
+    background-color: whitesmoke;
+}
+
+tr:hover
+{
+    background-color: gainsboro;
+}
+
+div.img3 
+{
+    float:left;
+    width: 50%;
+    height: 100px;
+    background-color: aliceblue;
+    
+}
+
+div.menu
+{
+    float:middle;
+    width: 50%;
+    height: 100px;
+    background-color: beige;
+}
+
+ol
+{
+    list-style-type: upper-alpha;
+}
+
+ul
+{
+    list-style-type: circle;
+}
+
+a
+{
+    text-decoration: none;
+
+}
+
+.fa-instagram
+{color: pink;
+
+}
+
+.fa-instagram:hover
+{
+   color: darkred; 
+}
+
+.fa-spotify
+{
+    color: pink;
+}
+
+.fa-spotify:hover
+{
+    color:darkred;
+}
+
+.fa-telegram
+{
+    color: pink;
+}
+
+.fa-telegram:hover
+{
+    color:darkred;
+}
+
+
+h1
+{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 15px;
+    color: black;
+    font-size: 35px;
+
+}
+
+
+
